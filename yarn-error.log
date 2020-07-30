@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /Users/zebra/.yarn/bin/yarn.js add prop-types
+  /usr/local/bin/node /Users/zebra/.yarn/bin/yarnpkg add expo-linear-gradient@~8.2.1
 
 PATH: 
   /Users/zebra/.yarn/bin:/Users/zebra/.config/yarn/global/node_modules/.bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/zebra/.yarn/bin:/Users/zebra/.config/yarn/global/node_modules/.bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin
@@ -31,6 +31,7 @@ npm manifest:
       "expo": "~38.0.8",
       "expo-location": "~8.2.1",
       "expo-status-bar": "^1.0.2",
+      "prop-types": "^15.7.2",
       "react": "~16.11.0",
       "react-dom": "~16.11.0",
       "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
